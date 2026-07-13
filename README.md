@@ -1,5 +1,5 @@
 # Secure-Comfort-AIP : Projet de cybersécurité Master 2
-![University Project](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)  
+![Python](https://img.shields.io/badge/Python-Programmation-blue?logo=python&logoColor=yellow) ![Database](https://img.shields.io/badge/Database-SQL-orange?logo=databricks&logoColor=white) ![Sécurisé](https://img.shields.io/badge/Data%20Security-Encrypted-green?logo=letsencrypt&logoColor=white) ![University Project](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)  
 **🎯 Finalité : Faire communiquer une carte Arduino et une carte Raspberry Pi en chiffrant leurs données**
 
 ## Objectifs :
@@ -13,10 +13,11 @@
 
 ## Comparaison des crypto-systèmes César et RSA
 
+- **Le chiffrement symétrique comme le chiffrement de César** est une technique qui consiste à utiliser la même clé pour chiffrer les données, mais aussi pour les déchiffrer.  
+- **Le chiffrement RSA est asymétrique** : il utilise une paire de clés (des nombres entiers) composée d'une clé publique pour chiffrer et d'une clé privée pour déchiffrer des données confidentielles.
+
 **Le chiffrement RSA (chiffrement asymétrique) est bien plus robuste que le chiffrement de césar (chiffrement symétrique)**
 <img width="1820" height="519" alt="image" src="https://github.com/user-attachments/assets/dddcaf85-91a6-47ed-b945-d5e587c05f69" />
- 
- 
   
 **Exécution des "Chiffrement César" et "Chiffrement RSA", faites Ctrl+clic pour lire la vidéo :**  
 | Chiffrement César | Chiffrement RSA |
@@ -26,11 +27,16 @@
 ---
 
 ## Simulation d'une attaque DOS
+
+Dans une attaque par déni de service (DoS), l'attaquant utilise une seule connexion Internet pour entraver une cible avec de fausses demandes ou pour essayer d'exploiter une vulnérabilité de cybersécurité.
+
 **Exécution de l'attaque DOS sur serveur en local, faites Ctrl+clic pour lire la vidéo :**
 [![Watch the demo](https://img.youtube.com/vi/LZ2Qc-5FD3g/hqdefault.jpg)](https://youtu.be/LZ2Qc-5FD3g)
 
 
 ## Installation d'un IDS : Suricata
+
+Un système de détection des intrusions (IDS) est une application qui surveille le trafic réseau et recherche les menaces connues et les activités suspectes ou malveillantes.  L'IDS envoie des alertes aux équipes informatiques et de sécurité lorsqu'il détecte des risques et des menaces de sécurité.
 
 **Test de Suricata pour détecter une intrusion système, faites Ctrl+clic pour lire la vidéo :**  
 [![Watch the demo](https://img.youtube.com/vi/3yrrGtwTTTE/hqdefault.jpg)](https://youtu.be/3yrrGtwTTTE)
