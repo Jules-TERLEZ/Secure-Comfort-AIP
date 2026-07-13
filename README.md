@@ -20,10 +20,5 @@
  
  
   
-**Exécution des codes dans les dossiers "Chiffrement César" et "Chiffrement RSA" comme dans les vidéos suivantes :**  
-[![Watch the demo](https://img.youtube.com/vi/0fOmlrKsfvg/maxresdefault.jpg)](https://youtu.be/0fOmlrKsfvg)
-**Chiffrement César**  
-
-  
-[![Watch the demo](https://img.youtube.com/vi/8LOja6A8akM/maxresdefault.jpg)](https://youtu.be/8LOja6A8akM)
-**Chiffrement RSA**
+**Exécution des "Chiffrement César" et "Chiffrement RSA", faites Ctrl+clic pour lire la vidéo :**  
+[![Watch the demo](https://img.youtube.com/vi/0fOmlrKsfvg/hqdefault.jpg)](https://youtu.be/0fOmlrKsfvg) [![Watch the demo](https://img.youtube.com/vi/8LOja6A8akM/hqdefault.jpg)](https://youtu.be/8LOja6A8akM)  
