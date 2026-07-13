@@ -1,15 +1,13 @@
-# Secure-Comfort-AIP : Projet de cybersécurité de Master 2 ISC
-![University Project](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)
-
----  
+# Secure-Comfort-AIP : Projet de cybersécurité Master 2 ISC
+![University Project](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)  
+**🎯 Finalité : Faire communiquer une carte Arduino et une carte Raspberry Pi en chiffrant leurs données**
 
 ## Objectifs :
-- Authentification pour sécuriser les accès aux données sur Arduino, sur la Raspberry et sur le site web
-- Utilisation d’un crypto-système symétrique (affine) et un crypto-système asymétrique (RSA) pour chiffrer/déchiffrer les communications entre les différentes cartes.
-- Comparer et évaluer les 2 crypto-systèmes en termes de complexité (rapidité, sécurité, consommation des ressources)
-- Simulation d'attaques de type DoS et DDoS
-- Présentation et mise en place d’un IDS léger sur une carte Raspberry Pi pour surveiller les activités anormales
-- Les données stockées dans une BD doivent être sécurisées (gestion des accès, chiffrement vs hachage, …)
+- Comparer et évaluer les crypto-systèmes symétrique (César) et asymétrique (RSA)
+- Simuler des attaques de type DoS et DDoS
+- Mettre en place un IDS léger sur une carte Raspberry Pi pour surveiller les activités anormales
+- Sécuriser les données dans une BD
+
 
 ---
 
@@ -22,3 +20,10 @@
   
 **Exécution des "Chiffrement César" et "Chiffrement RSA", faites Ctrl+clic pour lire la vidéo :**  
 [![Watch the demo](https://img.youtube.com/vi/0fOmlrKsfvg/hqdefault.jpg)](https://youtu.be/0fOmlrKsfvg) [![Watch the demo](https://img.youtube.com/vi/8LOja6A8akM/hqdefault.jpg)](https://youtu.be/8LOja6A8akM)  
+
+---
+
+## Installation d'un IDS : Suricata
+
+**Test de Suricata pour détecter une intrusion système, faites Ctrl+clic pour lire la vidéo :**  
+[![Watch the demo](https://img.youtube.com/vi/3yrrGtwTTTE/hqdefault.jpg)](https://youtu.be/3yrrGtwTTTE)
