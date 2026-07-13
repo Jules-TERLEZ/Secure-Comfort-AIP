@@ -1,4 +1,4 @@
-# Secure-Comfort-AIP : Projet de cybersécurité Master 2 ISC
+# Secure-Comfort-AIP : Projet de cybersécurité Master 2
 ![University Project](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)  
 **🎯 Finalité : Faire communiquer une carte Arduino et une carte Raspberry Pi en chiffrant leurs données**
 
