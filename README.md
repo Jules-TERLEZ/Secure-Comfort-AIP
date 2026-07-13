@@ -19,14 +19,9 @@
  
   
 **Exécution des "Chiffrement César" et "Chiffrement RSA", faites Ctrl+clic pour lire la vidéo :**  
-<p align="center">
-  <a href="https://youtu.be/0fOmlrKsfvg" target="_blank">
-    <img src="https://img.youtube.com/vi/0fOmlrKsfvg/hqdefault.jpg" alt="Watch the demo 1" width="350" style="margin-right: 15px;">
-  </a>
-  <a href="https://youtu.be/8LOja6A8akM" target="_blank">
-    <img src="https://img.youtube.com/vi/8LOja6A8akM/hqdefault.jpg" alt="Watch the demo 2" width="350">
-  </a>
-</p>
+| Chiffrement César | Chiffrement RSA |
+| :-: | :-: |
+| [![Watch the demo](https://img.youtube.com/vi/0fOmlrKsfvg/hqdefault.jpg)](https://youtu.be/0fOmlrKsfvg) | [![Watch the demo](https://img.youtube.com/vi/8LOja6A8akM/hqdefault.jpg)](https://youtu.be/8LOja6A8akM) |
 
 ---
 
