@@ -36,7 +36,8 @@ Dans une attaque par déni de service (DoS), l'attaquant utilise une seule conne
 
 ## Installation d'un IDS : Suricata
 
-Un système de détection des intrusions (IDS) est une application qui surveille le trafic réseau et recherche les menaces connues et les activités suspectes ou malveillantes.  L'IDS envoie des alertes aux équipes informatiques et de sécurité lorsqu'il détecte des risques et des menaces de sécurité.
+Un système de détection des intrusions (IDS) est une application qui surveille le trafic réseau et recherche les menaces connues et les activités suspectes ou malveillantes.  
+L'IDS envoie des alertes aux équipes informatiques et de sécurité lorsqu'il détecte des risques et des menaces de sécurité.
 
 **Test de Suricata pour détecter une intrusion système, faites Ctrl+clic pour lire la vidéo :**  
 [![Watch the demo](https://img.youtube.com/vi/3yrrGtwTTTE/hqdefault.jpg)](https://youtu.be/3yrrGtwTTTE)
