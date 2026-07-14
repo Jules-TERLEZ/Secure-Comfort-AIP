@@ -1,6 +1,6 @@
 # Secure-Comfort-AIP : Projet de cybersécurité Master 2
 ![Python](https://img.shields.io/badge/Python-Programmation-blue?logo=python&logoColor=yellow) ![Database](https://img.shields.io/badge/Database-SQL-orange?logo=databricks&logoColor=white) ![Sécurisé](https://img.shields.io/badge/Data%20Security-Encrypted-green?logo=letsencrypt&logoColor=white) ![University Project](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)  
-**🎯 Finalité : Faire communiquer une carte Arduino et une carte Raspberry Pi en chiffrant leurs données**
+**Finalité : Faire communiquer une carte Arduino et une carte Raspberry Pi en chiffrant leurs données**
 
 ## Objectifs :
 - Comparer et évaluer les crypto-systèmes symétrique (César) et asymétrique (RSA)
